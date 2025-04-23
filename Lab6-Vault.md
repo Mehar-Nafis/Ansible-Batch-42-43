@@ -21,7 +21,7 @@ For executing the encrypted playbook following command is used
 ansible-playbook --ask-vault-pass implement-vars.yml
 ```
 
-Now edit the playbook, add the below line to it and save the playbook
+To edit the playbook
 ```
 ansible-vault edit implement-vars.yml
 ```
