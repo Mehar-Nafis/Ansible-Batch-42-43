@@ -53,10 +53,6 @@ aws configure
 | -----------------    | --------------------- |
 | 77AKIAWJXSSHRD27T6SC | 777H4Vh0U5oenKfmJ/+FEnGAmZvQLX7zTT |
 
-```
-sudo yum install wget -y
-```
-
 Create the Script file to launch 2 more instances.
 ```
 vi ansible_script.yaml
